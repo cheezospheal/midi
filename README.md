@@ -43,8 +43,9 @@ The schematic is located inside the midi.kicad_sch file, and you'll notice some 
 * [J1] Conn_01x07_Pin (connecting pins for the capacitive touch keys)
 * [J2] Conn_o1x04_Pin (connecting pins for the OLED)
 * [D1, D2, D3, D4, D5] SK6812MINI-E (RGB LEDs)
+* [R1] 330 (330 Ohm Resistor)
 
-<img width="480" height="314" alt="image" src="https://github.com/user-attachments/assets/4c2b6b31-7559-454f-bbe6-6e0c25eefa26" />
+<img width="654" height="413" alt="image" src="https://github.com/user-attachments/assets/f1ea8faf-e55c-43e6-b182-c86fcf097b98" />
 
 Use the pins as reference for the firmware later on!
 |GPIO|Component|Part|
@@ -68,7 +69,7 @@ Use the pins as reference for the firmware later on!
 ## Routing & Customization
 Open up the .kicad_pcb file to see the PCB in the editor! The routing was made using both F.cu and B.cu layers, with vias to connect them. I also added a GND pour, so I don't have to route any of the GND ratlines on the back. However, make sure you don't include the GND pour on the capacitive touch keys! The image graphics were added using KiCad's built in image converter, where you can upload any image and it will automatically convert into a black and white bitmap for you to add. Then, just add it in as a footprint (you may need your own .pretty library for this) and edit it to be on the F.Silkscreen layer in the footprint editor. The text is much simpler, just use KiCad's built in text function and write your text! KiCad has multiple fonts to use, so I used Wingdings and Bell MT. If you want to see how your PCB will probably eventually look like, you can open it up in the 3D Viewer! 
 
-<img width="518" height="422" alt="image" src="https://github.com/user-attachments/assets/6baedb85-41f7-437d-9478-a3f271c62096" />
+<img width="524" height="420" alt="image" src="https://github.com/user-attachments/assets/e5620950-c8f2-46be-a742-f43bef8831ce" />
 
 ## Firmware
 (For Half Life, I used the MIDI tutorial's firmware as a base)
