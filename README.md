@@ -3,7 +3,7 @@ A custom PCB designed to play melodies on a keypad, switch to different octaves,
 
 While I've never been too interested in music (I'm very musically illiterate and got absolutely terrible marks in all of my music classes), I AM interested in hardware. I tried to make my MIDI very not-music-focused, or at least, very simple so even people like me can understand. A MIDI is essentially an instrument that that does not literally emit sound, but rather transmits to the computer what to play. It's also a little more complex than just a PCB with an OLED, so I get to use some more of my PCB designing skills and practice making something completely new! It being interactive as well opens up a lot more possibilities for what I can do with the PCB, and I tried to make it as custom as I can with my current skill level. 
 
-<img width="503" height="401" alt="image" src="https://github.com/user-attachments/assets/fe133ecd-7979-4e4f-9188-5e9c0ae6ca25" />
+<img width="450" height="450" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/47bd4a57-4d55-4e1e-b6fe-65d4b3c9fda9" />
 
 ## Features
 * 7 capacitive touch keys that correspond to the 7 notes of a C Major Scale
