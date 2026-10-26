@@ -210,7 +210,7 @@ if __name__ == '__main__':
 This final area of code is for the rest of the functions (sliders, RGB lights), and was left mostly unchanged. The one thing I did change though was the animation playing on the RGB lights (changed to RAINBOW_BREATHE), since I thought it might look cooler.
 
 ## Bill of Materials
-Please note that this BOM is for general users! For Half-Life, please view BOM.csv. Also note that these prices are given without any special discounts, but AliExpress often gives discounts anyways, so prices are probably cheaper than shown. Shipping is based off my own address and the tax is calculated with the Ontario rate of 13%. 
+Please note that this BOM is for general users! For Half Life, please view the BOM submitted on the Half Life website. Also note that these prices are given without any special discounts, but AliExpress often gives discounts anyways, so prices are probably cheaper than shown. Shipping is based off my own address and the tax is calculated with the Ontario rate of 13%. 
 
 |Part|Price (USD)|Quantity Used|Vendor|Link|
 |---|---|---|---|---|
@@ -226,7 +226,7 @@ Please note that this BOM is for general users! For Half-Life, please view BOM.c
 |Total|$64.45|-|-|-|
 
 ## Extra Notes [Half Life]
-Note that, for the cart screenshots submitted on the Half Life website, all prices are in CAD. However, all prices have been converted for each individual item into USD for the BOM, thus there may be a small rounding error (will most likely negligible; I can pay the difference out of pocket). Furthermore, there are special discounts (specifically for AliExpress) located in the BOM.csv from Half Life, which is why I am able to afford it under the $30 budget. 
+Note that, for the cart screenshots submitted on the Half Life website, all prices are in CAD. However, all prices have been converted for each individual item into USD for the BOM, thus there may be a small rounding error (will most likely negligible; I can pay the difference out of pocket). Furthermore, there are special discounts (specifically for AliExpress) located in the BOM.csv from Half Life, which is why I am able to afford it under the $30 budget. Additionally, for providing the grant, please look at the BOM submitted on Half Life, not the BOM.csv here (as the BOM on Half Life is under $30).
 
 Please pay attention to the descriptions of each item! Those that are labeled with [OUT OF POCKET] and [ALREADY OWNED] are not purchased with the grant and thus cost $0.01. Additionally, the vendors labeled (Local) are local to me, so I do not have to pay for shipping as I can go to them in person. All shipping prices are based on my own address and ability to go in-person for certain vendors.
 
